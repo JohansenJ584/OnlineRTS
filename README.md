@@ -1,5 +1,6 @@
 # OnlineRTS
 
+Dowload game (need at least 2 players)
 
 This is a game prototype is a Online Real Time Strategy Game allowing you to play with up to 3 of your friends. It was created so I could learn how to set up a multiplayer Real Time game. It was created within Unity using Mirror a networking API and The Steam API as a gateway to connect with friends over steam.
 
@@ -23,3 +24,6 @@ Multi-Selection: Clicking and dragging causes a grey box to form on screen and a
 Unit's combat system and Navigation Mesh: Units have different speed, health, and damage per second. Units won't fight for position and will find the quickest path around static objects.
 
 A player wins when all enemy bases are destroyed.
+
+Course
+
