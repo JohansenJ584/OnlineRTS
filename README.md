@@ -1,9 +1,9 @@
 # OnlineRTS
 
-PLAY:
-download game
-https://johansenj584.itch.io/online-real-time-strategy
-To add to steam
+If you want to play: <br>
+download game <br>
+https://johansenj584.itch.io/online-real-time-strategy <br>
+To add to steam <br>
 1. Launch Steam.
 2. Click the. Games. menu, choose. Add a Non-Steam Game to My Library.
 3. Browse for games on your computer or put a check next to the game(s) you wish to add to the. Library.
