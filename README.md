@@ -19,8 +19,8 @@ This game prototype has
 * Uses synchronization, remote procedure calls and server authoritative logic.
 * An in-game lobby so players can wait for all other players to join before starting the game
 * Gameplay mechanics include resource economy, base building, unit spawning, multi-selection, unit combat and Nav-Mesh pathfinding.
-  * Base Building: Click and Drag buildings to place them. Selected Building changes from red to green when placement is valid and the player has enough resources.
-  * Unit Spawning: Selected Unit building sets up a queue for spawning if resource are available.
+  * Base Building: Click and Drag buildings to place them. Building changes from red to green when placement is valid and the player has enough resources.
+  * Unit Spawning: If player selects a Unit spawning building , It will set up a queue and after a set amount of time create a new unit of said type.
   * Multi-Selection: Clicking and dragging causes a grey box to form on screen and all units within are selected.
   * Unit's combat system and Navigation Mesh: Units have different speed, health, and damage per second. Units won't fight for position and will find the quickest path around static objects.
 * A player wins when all enemy bases are destroyed.
